@@ -5,4 +5,16 @@
 * teste.c (Nome do arquivo)
 * -g (Depuracao)
 
-gdb main.exe
+gdb main.exe (roda com o gdb
+
+* (gdb) b main => (dá um break
+
+  |-> d (apaga todos os breaks points)
+  |-> b fibonacci
+> run (roda)
+
+
+next (proximo linha)
+step (proxima arvore/funcao)
+print (printar a variavel)
+where (mostra a arvore)
