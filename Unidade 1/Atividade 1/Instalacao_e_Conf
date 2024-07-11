@@ -1,0 +1,9 @@
+ Instale o GCC em seu sistema operacional;
+
+ Instale o GDB em seu sistema operacional;
+
+ Compile um c´odigo simples em linguagem C com depura¸c˜ao (usando a flag -g);
+
+ Coloque um breakpoint em uma determinada linha de c´odigo e execute o programa at´e esse ponto.
+
+ Execute o programa no GDB usando o comando run;
