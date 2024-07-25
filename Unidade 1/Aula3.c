@@ -25,8 +25,8 @@ struct Node *inserir(struct Node *raiz, struct Info info);
 
 int main(){
     struct Info info[10];
-    info[0] = criarInfo("Kennedy", 4, 1, rand()%10);
-    info[1] = criarInfo("Mikael", 3, 1, rand()%10);
+    info[0] = criarInfo("Satrugo", 4, 1, rand()%10);
+    info[1] = criarInfo("Pedro Lucas", 3, 1, rand()%10);
     
     struct Node* raiz = 0;
     raiz = inserir(raiz, info[0]);
