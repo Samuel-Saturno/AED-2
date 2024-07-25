@@ -18,3 +18,5 @@ next (proximo linha)
 step (proxima arvore/funcao)
 print (printar a variavel)
 where (mostra a arvore)
+
+print raiz->info (no gdb. assim mostraas informações)
