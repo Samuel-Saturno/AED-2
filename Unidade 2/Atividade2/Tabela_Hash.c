@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
-#define N 255
+#define N 256
 
 typedef struct Aluno{
     char nome[20];
