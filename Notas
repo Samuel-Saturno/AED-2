@@ -1,4 +1,4 @@
- gcc -o main teste.c -g
+ gcc -o main(nome do executavel) teste.c(caminho) -g
 
 * -o (Cria o executavel)
 * main (Nome do executavel)
